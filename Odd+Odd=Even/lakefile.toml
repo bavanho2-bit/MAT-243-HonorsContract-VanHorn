@@ -1,0 +1,10 @@
+name = "Odd+Odd=Even"
+version = "0.1.0"
+defaultTargets = ["odd+odd=even"]
+
+[[lean_lib]]
+name = "«Odd+Odd=Even»"
+
+[[lean_exe]]
+name = "odd+odd=even"
+root = "Main"
