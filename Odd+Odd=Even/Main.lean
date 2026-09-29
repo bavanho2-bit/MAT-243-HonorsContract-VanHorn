@@ -1,2 +1,0 @@
-import «Odd+Odd=Even»
-

@@ -61,4 +61,3 @@ theorem Odd_add_Odd_Even
     rewrite [hk, hj]
     simp [Int.mul_add, Int.add_assoc, Int.add_comm, Int.add_left_comm]
     simp [<- Int.add_assoc]
-
