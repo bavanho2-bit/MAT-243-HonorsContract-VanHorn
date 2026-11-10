@@ -13,6 +13,7 @@ To Do
         - [ ] Write a proof with nested quantifiers. 
 - [ ] Write what you've learned in notes.
 - [ ] Work on LEAN game. (Currently at World 2 - Level 2).
+- [ ] Go through chapters 1-3 On the textbook. 
 
 
 
